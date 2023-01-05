@@ -1,0 +1,6 @@
+wakeup
+brush
+cook
+clean
+eat breakfast
+sleep
