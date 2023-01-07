@@ -1,6 +1,7 @@
 wakeup
 brush
+bath
 cook
 clean
-eat breakfast
+eat
 sleep
