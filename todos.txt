@@ -1,7 +1,7 @@
 wakeup
 brush
 bath
-cook breakfast
+cook
 sleep
 Garden
 jogrun
