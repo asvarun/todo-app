@@ -4,4 +4,6 @@ bath
 cook
 sleep
 Garden
-jogrun
+jog
+run
+paint
